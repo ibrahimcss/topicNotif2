@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "465454122303",
+    "firebase_url": "https://topicnotif2.firebaseio.com",
+    "project_id": "topicnotif2",
+    "storage_bucket": "topicnotif2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465454122303:android:17b7264628b5e279",
+        "android_client_info": {
+          "package_name": "com.example.topicnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465454122303-34apqnaq4p4pj8dr19tmh6dddu3o6ls0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.topicnotif",
+            "certificate_hash": "51d2d634cf8725f692c1b536db8e9b056eefaa79"
+          }
+        },
+        {
+          "client_id": "465454122303-st0aq1dde1e24rqf7hd7243qm0gbvopm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiplc7D5SLcJkD3gWyEeoAtmJhFLhlGak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465454122303-st0aq1dde1e24rqf7hd7243qm0gbvopm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
